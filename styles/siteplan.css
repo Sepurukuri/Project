@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #1f4e79;
+    background-color: #cbd8e5;
+    margin: 0;
+    padding: 20px;
+}
+
+header, footer {
+    background-color: #91bae0;
+    text-align: center;
+    margin: 20px 0;
+}
+
+h1, h2 {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #1f4e79;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #1f4e79;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+footer p {
+    margin: 5px 0;
+    background-color: #91bae0;
+}
