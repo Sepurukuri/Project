@@ -1,0 +1,38 @@
+@media (max-width: 600px) {
+    header {
+        padding: 10px;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    nav a {
+        padding: 10px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    form {
+        gap: 1rem;
+    }
+
+    input, select, textarea {
+        padding: 0.5rem;
+    }
+
+    input[type="submit"] {
+        padding: 0.75rem;
+    }
+
+    footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    footer p {
+        margin: 10px 0;
+    }
+}
